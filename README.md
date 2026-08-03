@@ -1,85 +1,117 @@
-# Olá! 👋 Eu sou o Nicolas Felippi
+<div align="center">
 
-Desenvolvedor de software apaixonado por arquitetura, engenharia de software e criação de sistemas escaláveis.
+# Nicolas Felippi
 
-Gosto de transformar problemas complexos em soluções simples, priorizando qualidade, organização e boas práticas de desenvolvimento. Tenho interesse especial em arquitetura de software, Domain-Driven Design, Inteligência Artificial e automação.
+### Software Engineer • Full Stack Developer • Software Architecture Enthusiast
 
----
+Construindo software escalável, arquiteturas sólidas e soluções para problemas reais.
 
-## 🚀 Atualmente
+<br>
 
-- 🏗️ Desenvolvendo aplicações Full Stack
-- 🤖 Explorando Inteligência Artificial aplicada ao desenvolvimento
-- 📚 Estudando arquitetura, escalabilidade e sistemas distribuídos
-- ⚡ Buscando melhorar continuamente processos, código e experiência do desenvolvedor
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NicolasFelippi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](#)
+[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail)](mailto:)
 
----
-
-# 💻 Stack
-
-| Camada | Tecnologia |
-|--------|------------|
-| Frontend | Next.js + React + TypeScript |
-| Backend | NestJS + TypeScript |
-| ORM | Prisma |
-| Banco de Dados | PostgreSQL |
-| Cache / Filas | Redis + BullMQ |
-| Autenticação | JWT + Refresh Token + RBAC |
+</div>
 
 ---
 
-## 🧠 Áreas de Interesse
+# 👋 Sobre mim
+
+Sou desenvolvedor Full Stack apaixonado por engenharia de software, arquitetura e construção de sistemas de alta qualidade.
+
+Gosto de resolver problemas complexos através de soluções simples, bem modeladas e fáceis de manter.
+
+Tenho interesse especial em:
 
 - Arquitetura de Software
 - Domain-Driven Design (DDD)
 - Clean Architecture
-- Engenharia de Software
-- APIs REST
-- Banco de Dados
 - Inteligência Artificial
-- Automação
+- Engenharia de Software
+- APIs e Microsserviços
+- Sistemas Distribuídos
+- Banco de Dados
 - Performance
-- UX para sistemas complexos
+- Automação
 
 ---
 
-## 🛠 Ferramentas
+# 🚀 Stack Principal
 
-<p>
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,postgres,redis,prisma,docker,git,github,vscode,linux" />
-</p>
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasFelippi&show_icons=true&hide_border=true&rank_icon=github"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFelippi&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NicolasFelippi&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=NicolasFelippi&theme=transparent&hide_border=true"/>
-</p>
+| Camada | Tecnologia |
+|---------|------------|
+| **Frontend** | Next.js • React • TypeScript |
+| **Backend** | NestJS • Node.js • TypeScript |
+| **ORM** | Prisma |
+| **Banco de Dados** | PostgreSQL |
+| **Cache & Filas** | Redis • BullMQ |
+| **Autenticação** | JWT • Refresh Token • RBAC |
 
 ---
 
-## 💡 Filosofia
+# 🛠 Tecnologias
 
-> **"Bons sistemas não começam com código. Começam entendendo o problema."**
+<div align="center">
 
-Acredito que arquitetura, domínio e simplicidade são os principais fatores para construir software que continue bom daqui a alguns anos.
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,postgres,redis,prisma,docker,git,github,linux,vscode&perline=7"/>
 
----
-
-## 📫 Contato
-
-- GitHub: **github.com/NicolasFelippi**
+</div>
 
 ---
 
-⭐ Sempre aprendendo, sempre construindo.
+# 📚 Atualmente estudando
+
+- Inteligência Artificial aplicada ao desenvolvimento
+- Arquitetura de Software
+- Domain-Driven Design
+- Sistemas Distribuídos
+- Escalabilidade
+- Performance
+- Dev Experience
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasFelippi&show_icons=true&rank_icon=github&hide_border=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFelippi&layout=compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 💭 Filosofia
+
+> **"Bons sistemas não nascem de muito código, mas de boas decisões."**
+
+Acredito que software de qualidade é resultado de um bom entendimento do domínio, arquitetura consistente, simplicidade e atenção aos detalhes.
+
+Meu objetivo é construir aplicações que sejam fáceis de evoluir, manter e escalar.
+
+---
+
+# 📌 O que você encontrará aqui
+
+- Aplicações Full Stack
+- APIs REST
+- Estudos de Arquitetura
+- Projetos com IA
+- Ferramentas para Desenvolvedores
+- Automações
+- Business Intelligence
+- Open Source
+- Experimentos e Provas de Conceito
+
+---
+
+<div align="center">
+
+### Obrigado pela visita! 🚀
+
+Sempre aprendendo. Sempre construindo.
+
+</div>
