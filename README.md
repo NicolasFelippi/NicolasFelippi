@@ -2,116 +2,87 @@
 
 # Nicolas Felippi
 
-### Software Engineer • Full Stack Developer • Software Architecture Enthusiast
+### Arquitetura de Software • Inteligência Artificial • Desenvolvimento de Sistemas
 
-Construindo software escalável, arquiteturas sólidas e soluções para problemas reais.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NicolasFelippi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail)](mailto:)
+Construindo soluções escaláveis, organizadas e orientadas a domínio.
 
 </div>
 
 ---
 
-# 👋 Sobre mim
+# Sobre mim
 
-Sou desenvolvedor Full Stack apaixonado por engenharia de software, arquitetura e construção de sistemas de alta qualidade.
+Gosto de transformar problemas complexos em soluções simples, sustentáveis e fáceis de evoluir.
 
-Gosto de resolver problemas complexos através de soluções simples, bem modeladas e fáceis de manter.
+Tenho grande interesse por arquitetura de software, modelagem de domínio, boas práticas de engenharia e pelo uso de Inteligência Artificial para potencializar o desenvolvimento de software.
 
-Tenho interesse especial em:
+Estou sempre estudando novas tecnologias e buscando maneiras de escrever código mais limpo, criar arquiteturas mais consistentes e desenvolver sistemas que permaneçam fáceis de manter ao longo do tempo.
+
+---
+
+# Stack
+
+| Camada | Tecnologia |
+|---------|------------|
+| Frontend | Next.js + React + TypeScript |
+| Backend | NestJS + TypeScript |
+| ORM | Prisma |
+| Banco de Dados | PostgreSQL |
+| Cache / Filas | Redis + BullMQ |
+| Autenticação | JWT + Refresh Token + RBAC |
+
+---
+
+# Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,postgres,redis,prisma,docker,git,github,linux,vscode" />
+
+</div>
+
+---
+
+# Interesses
 
 - Arquitetura de Software
 - Domain-Driven Design (DDD)
 - Clean Architecture
-- Inteligência Artificial
 - Engenharia de Software
-- APIs e Microsserviços
+- Inteligência Artificial
 - Sistemas Distribuídos
+- APIs REST
 - Banco de Dados
 - Performance
 - Automação
-
----
-
-# 🚀 Stack Principal
-
-| Camada | Tecnologia |
-|---------|------------|
-| **Frontend** | Next.js • React • TypeScript |
-| **Backend** | NestJS • Node.js • TypeScript |
-| **ORM** | Prisma |
-| **Banco de Dados** | PostgreSQL |
-| **Cache & Filas** | Redis • BullMQ |
-| **Autenticação** | JWT • Refresh Token • RBAC |
-
----
-
-# 🛠 Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,postgres,redis,prisma,docker,git,github,linux,vscode&perline=7"/>
-
-</div>
-
----
-
-# 📚 Atualmente estudando
-
-- Inteligência Artificial aplicada ao desenvolvimento
-- Arquitetura de Software
-- Domain-Driven Design
-- Sistemas Distribuídos
-- Escalabilidade
-- Performance
 - Dev Experience
 
 ---
 
-# 📊 GitHub
+# Filosofia
 
-<div align="center">
+> *"A qualidade de um sistema é definida muito antes da primeira linha de código."*
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasFelippi&show_icons=true&rank_icon=github&hide_border=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFelippi&layout=compact&hide_border=true"/>
-
-</div>
+Acredito que compreender o domínio, tomar boas decisões arquiteturais e manter a simplicidade são os pilares para construir software duradouro.
 
 ---
 
-# 💭 Filosofia
+# Repositórios
 
-> **"Bons sistemas não nascem de muito código, mas de boas decisões."**
+Aqui você encontrará projetos relacionados a:
 
-Acredito que software de qualidade é resultado de um bom entendimento do domínio, arquitetura consistente, simplicidade e atenção aos detalhes.
-
-Meu objetivo é construir aplicações que sejam fáceis de evoluir, manter e escalar.
-
----
-
-# 📌 O que você encontrará aqui
-
-- Aplicações Full Stack
-- APIs REST
-- Estudos de Arquitetura
-- Projetos com IA
-- Ferramentas para Desenvolvedores
-- Automações
+- Desenvolvimento de sistemas
+- Arquitetura de Software
+- Inteligência Artificial
+- Ferramentas para desenvolvedores
 - Business Intelligence
-- Open Source
-- Experimentos e Provas de Conceito
+- Automações
+- Estudos e experimentos
 
 ---
 
 <div align="center">
 
-### Obrigado pela visita! 🚀
-
-Sempre aprendendo. Sempre construindo.
+### Obrigado pela visita!
 
 </div>
