@@ -54,13 +54,14 @@ Gosto de transformar problemas complexos em soluções simples, priorizando qual
 ## 📊 GitHub
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasFelippi&show_icons=true&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasFelippi&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFelippi&layout=compact&theme=transparent&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFelippi&layout=compact&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NicolasFelippi&hide_border=true"/>
+</p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=NicolasFelippi&theme=transparent&hide_border=true"/>
 </p>
